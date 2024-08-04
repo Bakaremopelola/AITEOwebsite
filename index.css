@@ -232,6 +232,7 @@ header {
     align-items: flex-start;
     flex-wrap: wrap; */
     width: 100%;
+    display none;
 }
 
 /* Footer Styles */
