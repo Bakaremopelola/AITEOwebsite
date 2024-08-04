@@ -226,7 +226,8 @@ header {
 }
 
 .sectionx{
-    display: flex;
+    padding: 2rem;
+    background: #f4f4f4;
     /* justify-content: space-between;
     align-items: flex-start;
     flex-wrap: wrap; */
