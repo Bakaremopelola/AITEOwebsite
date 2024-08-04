@@ -227,9 +227,9 @@ header {
 
 .sectionx{
     display: flex;
-    justify-content: space-between;
+    /* justify-content: space-between;
     align-items: flex-start;
-    flex-wrap: wrap;
+    flex-wrap: wrap; */
     width: 100%;
 }
 
