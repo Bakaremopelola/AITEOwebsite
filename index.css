@@ -232,6 +232,13 @@ footer {
     padding: 2rem 1rem;
 }
 
+.footer-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    width: 100%;
+}
 .footer-top {
     display: flex;
     justify-content: space-around;
